@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4fd1b26134e0eb294c8a716de69ad930",
-"index.html": "11ebe5edefdb24dd90424ec336bfb866",
-"/": "11ebe5edefdb24dd90424ec336bfb866",
-"main.dart.js": "e11411c68609f05176afc676461d1254",
+"index.html": "b53e24128b3259c4eae06ee6e0243fd4",
+"/": "b53e24128b3259c4eae06ee6e0243fd4",
+"main.dart.js": "261e369f47b4d6a2a23772262888bb5c",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -33,7 +33,11 @@ const RESOURCES = {
 "assets/shaders/ink_sparkle.frag": "a677003819e3c88a23bb8ebfc8c93f99",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/env/dev.json": "c939f076daaa1123da2692816212ef81",
-"assets/assets/fonts/magra.ttf": "23a86b6a3896b79ce536369e25b4b660"
+"assets/assets/fonts/magra.ttf": "23a86b6a3896b79ce536369e25b4b660",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
