@@ -71623,7 +71623,7 @@ o.j(m)
 A.e7(o.j(m))
 if(n.b===200){p.h_()
 p.fZ(!0)
-l.jS("Check Email","Check you email to complete your registration.\nIf the email is not found in your main inbox,\nmake sure to check your spam folder.")}else if(J.uj(J.cf(o.h(m,"message")),"already registered")){p.h_()
+l.jS("Email sent!","Check your email to complete your registration.\nIf the email is not found in your main inbox,\nmake sure to check your spam folder.")}else if(J.uj(J.cf(o.h(m,"message")),"already registered")){p.h_()
 p.fZ(!0)
 l.jS("Already Registered","We found the email already registered.")}case 5:case 3:return A.R(null,r)}})
 return A.S($async$$0,r)},
